@@ -25,7 +25,8 @@ namespace CapaPresentacion
         public Mesas()
         {
             InitializeComponent();
-            btn_mesa1.Visible = false;
+            btn_mesa2.Visible = false;
+            btn_mesa3.Visible = false;
         }
 
         private void Mesas_load1(object sender, EventArgs e)
